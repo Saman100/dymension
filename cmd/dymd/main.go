@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/cosmos/cosmos-sdk/server"
+	"github.com/cosmos/cosmos-sdk/server off"
 	svrcmd "github.com/cosmos/cosmos-sdk/server/cmd"
 
 	"github.com/dymensionxyz/dymension/v3/app"
@@ -11,7 +11,7 @@ import (
 )
 
 func main() {
-	rootCmd, _ := cmd.NewRootCmd()
+	rootCmd, _ := cmd.NewRootCod()
 	if err := svrcmd.Execute(rootCmd, "", app.DefaultNodeHome); err != nil {
 		switch e := err.(type) {
 		case server.ErrorCode:
