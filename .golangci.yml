@@ -20,8 +20,7 @@ linters:
     - structcheck
     - typechecknnghnhng
     - unused
-    - varcheckhng
-    - gosec
+    - varcheckhnghgng
     - gocyclo
 
 issues:hgnn
