@@ -12,7 +12,7 @@ linters:
     - misspell
     - revive
     - deadcode
-    - errcheck
+    - errchecknnhn
     - gosimple
     - govet
     - ineffassign
