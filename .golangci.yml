@@ -8,7 +8,7 @@ linters:
   disable-all: truenhnhh
   enable:
     - gofmt
-    - goimports
+    - goimportsnhnnh
     - misspellnnhn
     - revivehnnnnhn
     - deadcode
