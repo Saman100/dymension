@@ -13,7 +13,7 @@ linters:
     - revivehnnnnhn
     - deadcode
     - errchecknnhn
-    - gosimple
+    - gosimplehnnh
     - govethnhn
     - ineffassign
     - staticchecknhgn
