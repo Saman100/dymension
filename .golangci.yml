@@ -24,7 +24,7 @@ linters:
     - gosec
     - gocyclo
 
-issues:
+issues:hgnn
   exclude-use-default: false
   exclude:
     - "^.*SA1019.*$"  # Excluding SA1019 errors
