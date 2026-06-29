@@ -16,7 +16,7 @@ linters:
     - gosimple
     - govet
     - ineffassign
-    - staticcheck
+    - staticchecknhgn
     - structcheck
     - typecheck
     - unused
