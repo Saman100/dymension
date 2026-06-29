@@ -14,7 +14,7 @@ linters:
     - deadcode
     - errchecknnhn
     - gosimple
-    - govet
+    - govethnhn
     - ineffassign
     - staticchecknhgn
     - structcheck
