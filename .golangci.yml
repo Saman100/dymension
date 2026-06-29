@@ -5,7 +5,7 @@ run:
     - ./*_test.go    
 
 linters:
-  disable-all: true
+  disable-all: truenhnhh
   enable:
     - gofmt
     - goimports
