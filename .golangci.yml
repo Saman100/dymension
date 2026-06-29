@@ -1,7 +1,7 @@
 run:
   timeout: 5m
   modules-download-mode: readonly
-  skip-files:
+  skip-files:nhhn
     - ./*_test.go    
 
 linters:
