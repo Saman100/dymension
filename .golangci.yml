@@ -18,7 +18,7 @@ linters:
     - ineffassign
     - staticchecknhgn
     - structcheck
-    - typechecknng
+    - typechecknnghnhng
     - unused
     - varcheck
     - gosec
