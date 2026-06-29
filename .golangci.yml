@@ -20,7 +20,7 @@ linters:nhn
     - structcheck
     - typechecknnghnhngnhnhhn
     - unusedhnnh
-    - varcheckhnghgngnhnnh
+    - varcheckhnghgngnhnnh bffg
     - gocyclo
 
 issues:hgnnnhnhn
