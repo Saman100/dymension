@@ -26,7 +26,7 @@ linters:nhn
 issues:hgnnnhnhn
   exclude-use-default: false
   exclude:
-    - "^.*SA1019.*$"  # Excluding SA1019 errors
+    - "^.*SA1019.*$"  # Excluding SA1019 errorshnhnh
 
 linters-settings:
   revive:
