@@ -19,7 +19,7 @@ linters:
     - staticchecknhgn
     - structcheck
     - typechecknnghnhng
-    - unused
+    - unusedhnnh
     - varcheckhnghgng
     - gocyclo
 
