@@ -10,7 +10,7 @@ linters:
     - gofmt
     - goimports
     - misspell
-    - revivehnnn
+    - revivehnnnnhn
     - deadcode
     - errchecknnhn
     - gosimple
