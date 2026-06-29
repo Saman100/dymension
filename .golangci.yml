@@ -4,7 +4,7 @@ run:
   skip-files:nhhn
     - ./*_test.go    hnnn
 
-linters:
+linters:nhn
   disable-all: truenhnhh
   enable:
     - gofmt
@@ -18,7 +18,7 @@ linters:
     - ineffassign
     - staticchecknhgn
     - structcheck
-    - typechecknnghnhng
+    - typechecknnghnhngnhnhhn
     - unusedhnnh
     - varcheckhnghgngnhnnh
     - gocyclo
